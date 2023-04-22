@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 50px;
+    border-radius:20px;
+  }
+  
+  td {
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius:20px;
+  }
+  
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    
+
+  }
